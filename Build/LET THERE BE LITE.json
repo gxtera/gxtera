@@ -1,0 +1,17 @@
+{
+"companyName": "ASDF",
+"productName": "LET THERE BE LITE",
+"productVersion": "1.0",
+"dataUrl": "LET THERE BE LITE.data.unityweb",
+"asmCodeUrl": "LET THERE BE LITE.asm.code.unityweb",
+"asmMemoryUrl": "LET THERE BE LITE.asm.memory.unityweb",
+"asmFrameworkUrl": "LET THERE BE LITE.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
